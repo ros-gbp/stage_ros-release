@@ -1,3 +1,24 @@
+## stage_ros (jade) - 1.7.5-0
+
+The packages in the `stage_ros` repository were released into the `jade` distro by running `/usr/local/bin/bloom-release -r jade -t jade stage_ros` on `Thu, 17 Sep 2015 02:01:36 -0000`
+
+The `stage_ros` package was released.
+
+Version of package(s) in repository `stage_ros`:
+- upstream repository: https://github.com/ros-simulation/stage_ros.git
+- release repository: https://github.com/ros-gbp/stage_ros-release.git
+- rosdistro version: `1.7.4-0`
+- old version: `1.7.4-0`
+- new version: `1.7.5-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.37`
+
+
 ## stage_ros (indigo) - 1.7.5-0
 
 The packages in the `stage_ros` repository were released into the `indigo` distro by running `/usr/local/bin/bloom-release -r indigo -t indigo stage_ros` on `Thu, 17 Sep 2015 01:50:37 -0000`

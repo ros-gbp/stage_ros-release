@@ -1,3 +1,26 @@
+## stage_ros (kinetic) - 1.7.5-0
+
+The packages in the `stage_ros` repository were released into the `kinetic` distro by running `/usr/local/bin/bloom-release -r kinetic -t kinetic stage_ros` on `Fri, 22 Apr 2016 22:21:11 -0000`
+
+The `stage_ros` package was released.
+
+Version of package(s) in repository `stage_ros`:
+
+- upstream repository: https://github.com/ros-simulation/stage_ros.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.7.5-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.4`
+- vcstools version: `0.1.38`
+
+
 ## stage_ros (jade) - 1.7.5-0
 
 The packages in the `stage_ros` repository were released into the `jade` distro by running `/usr/local/bin/bloom-release -r jade -t jade stage_ros` on `Thu, 17 Sep 2015 02:01:36 -0000`

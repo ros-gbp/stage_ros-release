@@ -1,3 +1,26 @@
+## stage_ros (lunar) - 1.8.0-0
+
+The packages in the `stage_ros` repository were released into the `lunar` distro by running `/usr/local/bin/bloom-release -r lunar -t lunar -e stage_ros` on `Mon, 01 May 2017 03:31:36 -0000`
+
+The `stage_ros` package was released.
+
+Version of package(s) in repository `stage_ros`:
+
+- upstream repository: https://github.com/ros-simulation/stage_ros.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.8.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## stage_ros (kinetic) - 1.7.5-0
 
 The packages in the `stage_ros` repository were released into the `kinetic` distro by running `/usr/local/bin/bloom-release -r kinetic -t kinetic stage_ros` on `Fri, 22 Apr 2016 22:21:11 -0000`

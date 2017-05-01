@@ -1,0 +1,12 @@
+Source: ros-lunar-stage-ros
+Section: misc
+Priority: extra
+Maintainer: William Woodall <william@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), libboost-all-dev, ros-lunar-catkin, ros-lunar-geometry-msgs, ros-lunar-nav-msgs, ros-lunar-roscpp, ros-lunar-rostest, ros-lunar-sensor-msgs, ros-lunar-stage, ros-lunar-std-msgs, ros-lunar-std-srvs, ros-lunar-tf
+Homepage: http://ros.org/wiki/stage_ros
+Standards-Version: 3.9.2
+
+Package: ros-lunar-stage-ros
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libboost-all-dev, ros-lunar-geometry-msgs, ros-lunar-nav-msgs, ros-lunar-roscpp, ros-lunar-sensor-msgs, ros-lunar-stage, ros-lunar-std-msgs, ros-lunar-std-srvs, ros-lunar-tf
+Description: This package provides ROS specific hooks for stage

@@ -1,0 +1,12 @@
+Source: ros-noetic-stage-ros
+Section: misc
+Priority: optional
+Maintainer: William Woodall <william@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), libboost-all-dev, ros-noetic-catkin, ros-noetic-geometry-msgs, ros-noetic-nav-msgs, ros-noetic-roscpp, ros-noetic-rostest, ros-noetic-sensor-msgs, ros-noetic-stage, ros-noetic-std-msgs, ros-noetic-std-srvs, ros-noetic-tf
+Homepage: http://ros.org/wiki/stage_ros
+Standards-Version: 3.9.2
+
+Package: ros-noetic-stage-ros
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libboost-all-dev, ros-noetic-geometry-msgs, ros-noetic-nav-msgs, ros-noetic-roscpp, ros-noetic-sensor-msgs, ros-noetic-stage, ros-noetic-std-msgs, ros-noetic-std-srvs, ros-noetic-tf
+Description: This package provides ROS specific hooks for stage
